@@ -1,0 +1,10 @@
+# Internal environment variables
+.env
+
+# System Files.
+.DS_Store
+Thumbs.db
+
+# Data work folder
+data/*
+!data/.gitkeep
