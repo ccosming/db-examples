@@ -1,27 +1,6 @@
 {
   "sqltools.connections": [
     {
-      "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
-      "driver": "PostgreSQL",
-      "name": "kingly-localhost",
-      "database": "kingly",
-      "username": "kingly",
-      "password": "Theb3st.!"
-    },
-    {
-      "previewLimit": 50,
-      "server": "34.176.3.28",
-      "port": 5432,
-      "driver": "PostgreSQL",
-      "name": "kingly-production",
-      "username": "postgres",
-      "password": "K1n6.G0d.!&.",
-      "database": "kingly",
-      "connectionTimeout": 2
-    },
-    {
       "mssqlOptions": {
         "appName": "SQLTools",
         "useUTC": true,
